@@ -1,0 +1,11 @@
+In this Program, the goal is to create a calculator capable of evaluating mathematical
+expressions. The process consists of two fundamental steps: firstly, converting an infix
+expression to a post expression, and secondly, evaluating the resultant postfix
+expression.
+In simple terms, an infix expression is the conventional way we write mathematical
+expressions, where operators like +,-,*, and / are placed between the operands (e.g., 3
++ 4 * 5). On the other hand, a postfix expression, also known as Reverse Polish
+Notation (RPN), places operators after the operands (e.g., 3 4 5 * + ). The significant
+advantage of postfix notation is the elimination of parenthesis and the ambiguity
+regarding the order of operations, making it a streamlined approach for computer
+evaluation.
